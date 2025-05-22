@@ -1,4 +1,4 @@
-# StudentScoreAnalyzer
+# StudentScoreMenu
 COSC-1336 - College Assignment
 
 Project Overview - This C++ programs was created to read an input file of data that contained student names
